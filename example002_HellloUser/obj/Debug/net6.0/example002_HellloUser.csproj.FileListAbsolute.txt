@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\C#\example002_HellloUser\bin\Debug\net6.0\example002_HellloUser.exe
+C:\Users\Asus\Desktop\C#\example002_HellloUser\bin\Debug\net6.0\example002_HellloUser.deps.json
+C:\Users\Asus\Desktop\C#\example002_HellloUser\bin\Debug\net6.0\example002_HellloUser.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\example002_HellloUser\bin\Debug\net6.0\example002_HellloUser.dll
+C:\Users\Asus\Desktop\C#\example002_HellloUser\bin\Debug\net6.0\example002_HellloUser.pdb
+C:\Users\Asus\Desktop\C#\example002_HellloUser\obj\Debug\net6.0\example002_HellloUser.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\example002_HellloUser\obj\Debug\net6.0\example002_HellloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\example002_HellloUser\obj\Debug\net6.0\example002_HellloUser.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\example002_HellloUser\obj\Debug\net6.0\example002_HellloUser.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\example002_HellloUser\obj\Debug\net6.0\example002_HellloUser.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\example002_HellloUser\obj\Debug\net6.0\example002_HellloUser.dll
+C:\Users\Asus\Desktop\C#\example002_HellloUser\obj\Debug\net6.0\refint\example002_HellloUser.dll
+C:\Users\Asus\Desktop\C#\example002_HellloUser\obj\Debug\net6.0\example002_HellloUser.pdb
+C:\Users\Asus\Desktop\C#\example002_HellloUser\obj\Debug\net6.0\example002_HellloUser.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\example002_HellloUser\obj\Debug\net6.0\ref\example002_HellloUser.dll
